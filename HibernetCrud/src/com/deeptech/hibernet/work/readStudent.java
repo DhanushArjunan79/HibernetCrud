@@ -14,7 +14,7 @@ public class ReadStudent
 {
 	public static void main(String[] args) 
 	{
-		SessionFactory sf=HibernateUtil.connection();
+		SessionFactory sf=HIbernateUtil.connection();
 		Session ses=sf.openSession();
 		ses.beginTransaction(); //performs DML operation(insert,select,update,delete)
 		
