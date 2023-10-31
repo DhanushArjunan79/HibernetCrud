@@ -10,7 +10,7 @@ import org.hibernate.Query;
 import com.deeptech.hibernate.wrok.dto.Student;
 import com.deeptech.hibernate.wrok.utility.HibernateUtil;
 
-public class ReadStudent 
+public class readStudent 
 {
 	public static void main(String[] args) 
 	{
