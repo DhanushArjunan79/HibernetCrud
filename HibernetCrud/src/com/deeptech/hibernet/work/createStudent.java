@@ -11,7 +11,7 @@ public class createStudent {
 	public static void main(String[] args) {
 		
 		Student s=new Student();
-		s.setStudentname("Pavithraaa");
+		s.setStudentname("Dhanush");
 		s.setRollno(79);
 		s.setCourse("bca");
 		SessionFactory sf=HIbernetUtil.connection();
