@@ -6,7 +6,7 @@ import org.hibernate.SessionFactory;
 import com.deeptech.hibernate.wrok.dto.Student;
 import com.deeptech.hibernate.wrok.utility.HibernateUtil;
 
-public class UpdateStudent 
+public class updateStudent 
 {
 	public static void main(String[] args) 
 	{
