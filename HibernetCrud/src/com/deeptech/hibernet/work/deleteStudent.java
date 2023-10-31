@@ -1,10 +1,10 @@
-package com.deeptech.hibernate.wrok;
+package com.deeptech.hibernate.work;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 
-import com.deeptech.hibernate.wrok.dto.Student;
-import com.deeptech.hibernate.wrok.utility.HibernateUtil;
+import com.deeptech.hibernate.work.dto.Student;
+import com.deeptech.hibernate.work.utility.HibernateUtil;
 
 public class DeleteStudent 
 {
