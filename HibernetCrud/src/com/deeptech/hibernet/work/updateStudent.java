@@ -15,7 +15,7 @@ public class UpdateStudent
 		ses.beginTransaction();
 		
 		Student s= ses.get(Student.class, 1);
-		s.setSudentName("M");
+		s.setSudentName("DhanushArjunan");
 		ses.getTransaction().commit();
 		ses.close();
 		sf.close();
